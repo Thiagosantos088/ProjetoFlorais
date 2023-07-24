@@ -1,0 +1,10 @@
+.card{
+    float:inline-end;
+}
+body{
+    background-color: #7B68EE;
+.card{
+    background-color: #6A5ACD;
+    color: white;
+    display: flexbox;
+}
